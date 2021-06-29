@@ -31,7 +31,7 @@ I am a Front-end Developer and budding DevOps Engineer
 <br/>
 ---
 
-### 📝 Latest Blog Posts
+## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [10 Platforms to Help Level Up Your Frontend Development Skills](https://goodiec.hashnode.dev/10-platforms-to-help-level-up-your-frontend-development-skills)
 - [Comparing CI/CD Tools](https://goodiec.hashnode.dev/comparing-cicd-tools)
