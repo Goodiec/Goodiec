@@ -36,6 +36,12 @@ I am a Front-end Developer and budding DevOps Engineer
 - [Challenges Faced in My Tech Journey](https://goodiec.hashnode.dev/challenges-faced-in-my-tech-journey)
 <!-- BLOG-POST-LIST:END -->
 
+--- 
+
+### 💡 Quotes & Fun Facts
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+
 <!--
 **Goodiec/Goodiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
