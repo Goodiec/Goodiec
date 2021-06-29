@@ -38,8 +38,8 @@ I am a Front-end Developer and budding DevOps Engineer
 
 --- 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=goodiec&show_icons=true&theme=tokyonight)](https://github.com/goodiec/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodiec&langs_count=8&layout=compact&theme=tokyonight)](https://github.com/goodiec/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=goodiec&show_icons=true&theme=radical)](https://github.com/goodiec/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodiec&langs_count=10&layout=compact&theme=radical)](https://github.com/goodiec/github-readme-stats)
 
 
 ### 💬 Quotes & Fun Facts
