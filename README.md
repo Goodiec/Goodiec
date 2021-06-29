@@ -31,7 +31,7 @@ I am a Front-end Developer and budding DevOps Engineer
 <br/>
 ---
 
-## 📝 Latest Blog Posts
+## Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
 - [10 Platforms to Help Level Up Your Frontend Development Skills](https://goodiec.hashnode.dev/10-platforms-to-help-level-up-your-frontend-development-skills)
 - [Comparing CI/CD Tools](https://goodiec.hashnode.dev/comparing-cicd-tools)
@@ -46,7 +46,7 @@ I am a Front-end Developer and budding DevOps Engineer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goodiec&langs_count=10&layout=compact&theme=dracula)](https://github.com/goodiec/github-readme-stats)
 
 
-### 💬 Quotes & Fun Facts
+## Quotes & Fun Facts 💬
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“When you are stuck in a traffic jam with a Porsche, all you do is burn more gas in idle.  Scalability is about building wider roads, not about building faster cars.”— Steve Swartz   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
