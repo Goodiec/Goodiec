@@ -3,7 +3,7 @@
 I am a Front-end Developer and budding DevOps Engineer
 - 🔭 I’m currently working on multiple frontend and backend project using React and Nodejs
 - 🌱 I’m currently learning Data structures & Algorithms in depth
-- 😄 Pronouns: her/she
+- 👯 I’m looking to collaborate on project, open source contributions
 
 ---
 
