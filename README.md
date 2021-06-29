@@ -38,7 +38,7 @@ I am a Front-end Developer and budding DevOps Engineer
 
 --- 
 
-### 💡 Quotes & Fun Facts
+### 💬 Quotes & Fun Facts
 <!--STARTS_HERE_QUOTE_README-->
 <!--ENDS_HERE_QUOTE_README-->
 
