@@ -3,8 +3,7 @@
 I am a Front-end Developer and budding DevOps Engineer
 - 🔭 I’m currently working on multiple frontend and backend project using React and Nodejs
 - 🌱 I’m currently learning Data structures & Algorithms in depth
-- 👯 I’m looking to collaborate on project, open source contributions
-[`master` branch](https://github.com/layer5io/layer5/tree/master)
+- 👯 I’m looking to collaborate on project, open source contributions [`master` branch](https://github.com/layer5io/layer5/tree/master)
 ---
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
