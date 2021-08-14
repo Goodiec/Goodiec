@@ -47,7 +47,7 @@ I am a Front-end Developer and budding DevOps Engineer
 
 ## Quotes & Fun Facts 💬
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The Space Shuttle never flew on new year’s day or eve because its computers couldn’t handle a year rollover.❞</i>
+<i>❝The very first computer was an abacus invested 500 B.C in Babylon made of string and beads whose main purpose was to count.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
