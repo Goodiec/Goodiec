@@ -33,10 +33,10 @@ I am a Front-end Developer and budding DevOps Engineer
 ## Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
 - [Understanding CSS Position Property](https://goodiec.hashnode.dev/understanding-css-position-property)
+- [Serving the Content of your Static Websites Faster with AWS CloudFront](https://goodiec.hashnode.dev/serving-the-content-of-your-static-websites-faster-with-aws-cloudfront)
 - [10 Platforms to Help Level Up Your Frontend Development Skills](https://goodiec.hashnode.dev/10-platforms-to-help-level-up-your-frontend-development-skills)
 - [Comparing CI/CD Tools](https://goodiec.hashnode.dev/comparing-cicd-tools)
 - [Beginners Guide to Shell Scripting](https://goodiec.hashnode.dev/beginners-guide-to-shell-scripting)
-- [Why JavaScript](https://goodiec.hashnode.dev/why-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
