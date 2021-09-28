@@ -47,7 +47,7 @@ I am a Front-end Developer and budding DevOps Engineer
 
 ## Quotes & Fun Facts 💬
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computer Science is no more about computers than astronomy is about telescopes.”— Edsger W. Dijkstra  ❞</i>
+<i>❝YouTube was founded by 3 former employees of PayPal.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
