@@ -1,7 +1,7 @@
 ## Hi there 👋, I am Goodness!
 
 I am a Front-end Developer and budding DevOps Engineer
-- 🔭 I’m currently working on multiple frontend and backend project using React and Nodejs
+- 🔭 I’m currently working on frontend and backend projects using React and Nodejs
 - 🌱 I’m currently learning Data structures & Algorithms in depth
 - 👯 I’m looking to collaborate on project, open source contributions
 ---
