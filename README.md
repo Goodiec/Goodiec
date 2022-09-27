@@ -47,7 +47,7 @@ I am a Front-end Developer and budding DevOps Engineer
 
 ## Quotes & Fun Facts 💬
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It’s hardware that makes a machine fast.  It’s software that makes a fast machine slow.”— Craig Bruce   ❞</i>
+<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
