@@ -47,7 +47,7 @@ I am a Front-end Developer and budding DevOps Engineer
 
 ## Quotes & Fun Facts 💬
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Two years from now, spam will be solved.”— Bill Gates, 2004   ❞</i>
+<i>❝“The computer was born to solve problems that did not exist before.”— Bill Gates    ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
