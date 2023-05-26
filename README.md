@@ -47,7 +47,7 @@ I am a Front-end Developer and budding DevOps Engineer
 
 ## Quotes & Fun Facts 💬
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Without a systematic way to start and keep data clean, bad data will happen.”— Donato Diorio❞</i>
+<i>❝“Passwords are like underwear: you don’t let people see it, you should change it very often, and you shouldn’t share it with strangers.”— Chris Pirillo   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
