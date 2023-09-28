@@ -47,7 +47,7 @@ I am a Front-end Developer and budding DevOps Engineer
 
 ## Quotes & Fun Facts 💬
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.”— Matthew Austern   ❞</i>
+<i>❝In 1833, Charles Babbage invented all the parts a modern computer uses, but it wasn’t until 120 years later that the first modern computers were invented.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
