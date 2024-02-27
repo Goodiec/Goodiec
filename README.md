@@ -32,11 +32,11 @@ I am a Front-end Developer and budding DevOps Engineer
 
 ## Latest Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [Progress Report: Halfway There](https://goodiec.hashnode.dev/progress-report-halfway-there)
 - [Joining the ODK-X Community](https://goodiec.hashnode.dev/joining-the-odk-x-community)
 - [Everyone Struggles: Embracing the Learning Curve](https://goodiec.hashnode.dev/everyone-struggles-embracing-the-learning-curve)
 - [Outreachy Blog #1 - A Journey Begins](https://goodiec.hashnode.dev/outreachy-blog-1-a-journey-begins)
 - [Serving the Content of your Static Websites Faster with AWS CloudFront](https://goodiec.hashnode.dev/serving-the-content-of-your-static-websites-faster-with-aws-cloudfront)
-- [Understanding CSS Position Property](https://goodiec.hashnode.dev/understanding-css-position-property)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
