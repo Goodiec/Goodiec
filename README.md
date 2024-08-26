@@ -47,7 +47,7 @@ I am a Front-end Developer and budding DevOps Engineer
 
 ## Quotes & Fun Facts 💬
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“When debugging, novices insert corrective code; experts remove defective code.”— Richard Pattis   ❞</i>
+<i>❝“There is only one problem with common sense; it’s not very common.”— Milt Bryce   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
