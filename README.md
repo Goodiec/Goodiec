@@ -47,7 +47,7 @@ I am a Front-end Developer and budding DevOps Engineer
 
 ## Quotes & Fun Facts 💬
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The problem of viruses is temporary and will be solved in two years.”— John McAfee, 1988  ❞</i>
+<i>❝An Apple laptop stinks. One 2001 iBook model used a glue that, after 12-18 months, may begin to smell like human body odor. It is so strong that repairs are difficult because the smell makes people nauseous.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
