@@ -47,7 +47,7 @@ I am a Front-end Developer and budding DevOps Engineer
 
 ## Quotes & Fun Facts 💬
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝More than 80% of the emails sent daily are spams.❞</i>
+<i>❝According to a survey, most of the apps in your android device leaks your data, so be aware.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <!--
